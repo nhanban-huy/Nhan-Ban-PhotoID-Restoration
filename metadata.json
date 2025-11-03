@@ -1,0 +1,5 @@
+{
+  "name": "Nhân Bản AI PhotoID & Restoration Tool",
+  "description": "An AI-powered tool that allows users to upload photos, edit them into passport photos, or restore old photos. Features include size selection, attire change, face and hair adjustments, background modification, and various restoration modes.",
+  "requestFramePermissions": []
+}
